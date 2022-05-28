@@ -1,7 +1,11 @@
 let header_new = () => {
     return `
       <div class="inner-header">
+      
+      
       <div class="inner-header__left">
+      
+      
           <a href="/" class="inner-header__left__logo">
           <img src="https://www.beardo.in/images/logo-white.png" alt="" class="logo lazy loading" data-was-processed="true">
           </a>
