@@ -1,7 +1,9 @@
 # Beardo.in
  Unit 3 construct Week Project
  
- Project link - https://gleeful-torrone-c553f1.netlify.app
+ Project link - https://beardoclone.netlify.app
+ ![image](https://user-images.githubusercontent.com/94439105/171358153-a779e07b-54da-44f3-8783-766568f3fcff.png)
+
 
 Blog links ->
 
