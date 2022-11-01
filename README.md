@@ -4,7 +4,7 @@
  Project link - https://beardoclone.netlify.app
  ![image](https://user-images.githubusercontent.com/94439105/171358153-a779e07b-54da-44f3-8783-766568f3fcff.png)
 
-
+Tech Stack Used: HTML, CSS, JAVASCRIPT, Bootstrap, RestAPI
 Blog links ->
 
 Arshiya Moin - https://medium.com/@arshiyamoin99/clone-of-beardo-in-1c51914e8dc3
